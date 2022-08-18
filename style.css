@@ -1,0 +1,58 @@
+*{margin: 0px;padding: 0px;box-sizing: border-box;}
+
+header{display:flex;justify-content:space-around;position: sticky;top: 0%;background-color: aliceblue;}
+ul{display: flex;
+list-style: none;}
+li{margin: 20px;}
+.hover{color: blue;}
+li:hover{color: blue;}
+
+.partie-1{
+text-align: center;
+}
+.partie-1 img{
+    margin: 30px;
+
+}
+.partie-1 h1{
+    color:#00b39b
+}
+.parag{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+    
+
+}
+  p{width: 500px;
+    margin:60px;
+}
+.carte-1{
+   background-color:  #00b39b; width: 300px; height: 300px; border-radius: 8px;width: 400px; height: 400px;color: white;
+}
+.carte-2{
+    background-color: #3d83df;width: 300px; height: 300px; border-radius: 8px;width: 400px; height: 400px;color: white;
+}
+.carte-3{
+    background-color: #1b2734;width: 300px; height: 300px; border-radius: 8px;width: 400px; height: 400px;color: white;
+}
+
+.khedma-1{
+    display: flex; text-align: center; justify-content: center;
+    margin: 20px;
+}
+    .brands_logs{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100px;
+        justify-content: center;
+    }
+    .site-web{
+        display: flex;
+    }
+    .site-web ul {
+        width: 1000px;
+        display: flex;
+        flex-wrap: wrap;
+    }
